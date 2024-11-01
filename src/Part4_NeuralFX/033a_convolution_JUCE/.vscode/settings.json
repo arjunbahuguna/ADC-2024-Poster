@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "atomic": "cpp",
-        "*.mm": "cpp",
-        "random": "cpp",
-        "future": "cpp"
-    }
-}
